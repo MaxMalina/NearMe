@@ -1,0 +1,5 @@
+{
+    "GET" : "/users",
+    "POST" : "/users",
+    "DELETE" : "/users"
+}

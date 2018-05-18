@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NearMe</string>
+
+    <string name="provider_gps">GPS</string>
+    <string name="provider_network">Network</string>
+    <string name="location_find">Find</string>
+</resources>
